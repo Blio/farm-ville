@@ -1,0 +1,34 @@
+ <resources>
+
+    <string name="mitem1">ആപ്പിള്‍</string>
+    <string name="mitem2">കുമ്പളങ്ങ </string>
+    <string name="mitem3">പഴം</string>
+    <string name="mitem4">ബീന്‍സ് </string>
+    <string name="mitem5">ബീറ്റ് റൂട്ട്</string>
+    <string name="mitem6">പാവയ്ക്കാ</string>
+    <string name="mitem7">വഴുതനങ്ങ </string>
+    <string name="mitem8">കാബേജ്</string>
+    <string name="mitem9">കാരറ്റ് </string>
+    <string name="mitem10">കോളിഫ്ളവര്‍ </string>
+    <string name="mitem11">ചേമ്പ് </string>
+    <string name="mitem12">പെരുമ്പയര്‍ , വന്‍പയര്‍ </string>
+    <string name="mitem13">വെള്ളരിക്ക </string>
+    <string name="mitem14">മുരിങ്ങകൊല്‍ </string>
+    <string name="mitem15">ആനചേന, ചേന  </string>
+    <string name="mitem16">ഇഞ്ചി </string>
+    <string name="mitem17">മുന്തിരി </string>
+    <string name="mitem18">പച്ചമാങ്ങ</string>
+    <string name="mitem19">പച്ചമുളക്  </string>
+    <string name="mitem20">വെണ്ടയ്ക്ക</string>
+    <string name="mitem21">നാരങ്ങ </string>
+    <string name="mitem22">ഉള്ളി  </string>
+    <string name="mitem23">സവാള </string>
+    <string name="mitem24">ഓറഞ്ച് </string>
+    <string name="mitem25">കൈതചക്ക </string>
+    <string name="mitem26">ഉരുളകിഴങ്ങ് </string>
+    <string name="mitem27">മത്തങ്ങ  </string>
+    <string name="mitem28">പടവലം </string>
+    <string name="mitem29">തക്കാളി </string>
+    
+
+</resources>

@@ -1,0 +1,46 @@
+ <resources>
+
+    <string name="app_name">FarmVille</string>
+    <string name="hello_world">വെണ്ടയ് </string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_ville">VilleActivity</string>
+    
+    <string name="mlang"> മലയാളം </string>
+    <string name="elang">English</string>
+    <string name="check">Check Rate</string>
+    
+ 
+  
+   <string name="eitem1">Apple</string>
+   <string name="eitem2">Ash groud</string>
+   <string name="eitem3">Banana</string>
+   <string name="eitem4">Beans</string>
+   <string name="eitem5">Beetroot</string>
+   <string name="eitem6">Bitter groud</string>
+   <string name="eitem7">Brinjal</string>
+   <string name="eitem8">Cabbage</string>
+   <string name="eitem9">Carrot</string>
+   <string name="eitem10">Cauliflower</string>
+   <string name="eitem11">Colocasia</string>
+   <string name="eitem12">Cowpea</string>
+   <string name="eitem13">Cucumber</string>
+   <string name="eitem14">Drum Stick</string>
+   <string name="eitem15">Elephant Foot Yam</string>
+   <string name="eitem16">Ginger</string>
+   <string name="eitem17">Grapes</string>
+   <string name="eitem18">Green Mango</string>
+   <string name="eitem19">Green Chillies</string>
+   <string name="eitem20">Ladies Finger</string>
+   <string name="eitem21">Lemon</string>
+   <string name="eitem22">Onion(Small)</string>
+   <string name="eitem23">Onion(Big)</string>
+   <string name="eitem24">Orange</string>
+   <string name="eitem25">Pine apple</string>
+   <string name="eitem26">Potato</string>
+   <string name="eitem27">Pumpkin </string>
+   <string name="eitem28">Snake Groud</string>
+   <string name="eitem29">Tomato</string>
+   
+    
+
+</resources>

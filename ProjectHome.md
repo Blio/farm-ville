@@ -1,0 +1,1 @@
+A simple to use application that updates you about the latest price changes in the market for fruits and vegetables.
